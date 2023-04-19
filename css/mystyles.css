@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgb(73, 73, 73);
+}
+h1 {
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+li {
+    font-style: italic;
+    font-weight: normal;
+}
+a{ 
+    color: blue;
+}
+.bold{
+    font-weight: bold;
+    font-style: normal;
+}
+.homebg{ 
+    background-color: rgb(255, 212, 160);
+    background-image: url(../images/Background.jpg);}
+
+.resumebg{
+    background-color: rgb(255, 212, 160);}
